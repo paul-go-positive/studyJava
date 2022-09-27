@@ -5,6 +5,9 @@ import com.innovationT.section.jsch.TestJsch;
 public class MainClass {
 
 	public static void main(String[] args) {
+		
+		// JSCH TEST
+		
 		System.out.println("[ main ] start");
 		String user = "paul";
 		String host = "192.168.56.101";
